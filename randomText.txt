@@ -1,0 +1,3 @@
+this is text from a random text file.
+We use this file to show what file-open can do.
+for more info see: <a href="https://www.php.net/manual/en/function.fopen.php">file open php docs</a>
